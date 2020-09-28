@@ -1,16 +1,15 @@
-title:              Clean Blog
+title:              Graphic Recording
 email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        Aoyama Gakuin University - furuhashi lab-
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "furuhashilab.github.io/startbootstrap-clean-blog-jekyll/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   
+github_username:   
+facebook_username:  
+
+
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
